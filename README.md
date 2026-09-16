@@ -5,6 +5,8 @@ Orbit 是一个轻量 AI 网页应用生成工作台。访客输入自然语言�
 > 在线 Demo：[https://orbit-ai-app-studio.vercel.app](https://orbit-ai-app-studio.vercel.app)
 >
 > 源代码：[https://github.com/jeffryesboris-eng/orbit-ai-app-studio](https://github.com/jeffryesboris-eng/orbit-ai-app-studio)
+>
+> 笔试提交说明：[docs/submission.md](docs/submission.md)
 
 ## 功能完成度
 
